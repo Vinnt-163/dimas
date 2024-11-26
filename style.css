@@ -1,0 +1,26 @@
+body {
+    background-color: aqua;
+    text-align: center;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    position: relative;
+    margin-top: 200px;
+    margin-left: 20px;
+    width: 400px;
+    height: 400px;
+}
+
+.tambahan {
+    position: relative;
+    margin-top: -700px;
+    margin-left: 20px;
+    width: 250px;
+    height: 250px;
+}
